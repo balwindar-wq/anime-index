@@ -83,3 +83,13 @@ jobs:
           git remote add mirror6 https://hokaiwatch:${{ secrets.PAT_MIRROR_6 }}@github.com/hokaiwatch/anime-index.git
           git push mirror6 main --force
           git remote remove mirror6
+
+      # =========================================================
+      # 7️⃣ MIRROR 7: CyberDrift00
+      # =========================================================
+      - name: Sync to CyberDrift00
+        run: |
+          git config --global --unset http.https://github.com/.extraheader || true
+          git remote add mirror7 https://hokaiwatch:${{ secrets.PAT_MIRROR_7 }}@github.com/hokaiwatch/anime-index.git
+          git push mirror7 main --force
+          git remote remove mirror7
