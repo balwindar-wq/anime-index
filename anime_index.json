@@ -1044,6 +1044,172 @@
       }
     }
   },
+  "I've Been Killing Slimes for 300 Years and Maxed Out My Level": {
+    "seasons": {
+      "1": {
+        "languages": {
+          "Hindi/Sub": {
+            "batches": {
+              "batch1": [
+                {
+                  "file": 775,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix S1EP-01.mkv"
+                },
+                {
+                  "file": 776,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix S1EP-02.mkv"
+                },
+                {
+                  "file": 777,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix S1EP-03.mkv"
+                },
+                {
+                  "file": 778,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix S1EP-04.mkv"
+                },
+                {
+                  "file": 779,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix S1EP-05.mkv"
+                }
+              ],
+              "batch2": [
+                {
+                  "file": 780,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix S1EP-06.mkv"
+                },
+                {
+                  "file": 781,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix S1EP-07.mkv"
+                },
+                {
+                  "file": 782,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix S1EP-08.mkv"
+                },
+                {
+                  "file": 783,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix S1EP-09.mkv"
+                },
+                {
+                  "file": 784,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix S1EP-10.mkv"
+                }
+              ],
+              "batch3": [
+                {
+                  "file": 785,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix S1EP-11.mkv"
+                },
+                {
+                  "file": 786,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix S1EP-12.mkv"
+                }
+              ]
+            },
+            "specials": {}
+          }
+        },
+        "mal_ids": [
+          "40586",
+          "50738"
+        ],
+        "missing_episodes": [],
+        "total_episodes": 0
+      },
+      "2": {
+        "languages": {
+          "Hindi/Sub": {
+            "batches": {
+              "batch1": [
+                {
+                  "file": 793,
+                  "channel_id": -1003175788400,
+                  "name": "I've Been Killing Slimes for 300 Years and Maxed Out.mp4"
+                },
+                {
+                  "file": 789,
+                  "channel_id": -1003175788400,
+                  "name": "I've_Been_Killing_Slimes_for_300_Years_and_Maxed_Out_My_Leve.mp4"
+                },
+                {
+                  "file": 790,
+                  "channel_id": -1003175788400,
+                  "name": "I've_Been_Killing_Slimes_for_300_Years_and_Maxed_Out_My_Leve.mp4"
+                },
+                {
+                  "file": 791,
+                  "channel_id": -1003175788400,
+                  "name": "I've_Been_Killing_Slimes_for_300_Years_and_Maxed_Out_My_Leve.mp4"
+                },
+                {
+                  "file": 792,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix S2EP-04.mkv"
+                }
+              ],
+              "batch2": [
+                {
+                  "file": 794,
+                  "channel_id": -1003175788400,
+                  "name": "I've Been Killing Slimes for 300 Years and Maxed Out.mp4"
+                },
+                {
+                  "file": 796,
+                  "channel_id": -1003175788400,
+                  "name": "I've Been Killing Slimes for 300 Years and Maxed Out.mp4"
+                },
+                {
+                  "file": 797,
+                  "channel_id": -1003175788400,
+                  "name": "I've Been Killing Slimes for 300 Years and Maxed Out.mp4"
+                },
+                {
+                  "file": 798,
+                  "channel_id": -1003175788400,
+                  "name": "I've_Been_Killing_Slimes_for_300_Years_and_Maxed_Out_My_Leve.mp4"
+                },
+                {
+                  "file": 795,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix S2EP-07.mkv"
+                }
+              ],
+              "batch3": [
+                {
+                  "file": 799,
+                  "channel_id": -1003175788400,
+                  "name": "I've Been Killing Slimes For 300 Years And Maxed Out My .mkv"
+                },
+                {
+                  "file": 800,
+                  "channel_id": -1003175788400,
+                  "name": "I've_Been_Killing_Slimes_for_300_Years_and_Maxed_Out_My_Leve.mp4"
+                }
+              ]
+            },
+            "specials": {}
+          }
+        },
+        "mal_ids": [
+          "40586",
+          "50738"
+        ],
+        "missing_episodes": [],
+        "total_episodes": 0
+      }
+    }
+  },
   "Jujutsu Kaisen": {
     "seasons": {
       "1": {
@@ -1496,51 +1662,6 @@
             "batches": {
               "batch1": [
                 {
-                  "file": 756,
-                  "channel_id": -1003175788400,
-                  "name": "Bunny Girl Senpai S01E01 [720p].mkv"
-                },
-                {
-                  "file": 757,
-                  "channel_id": -1003175788400,
-                  "name": "Bunny Girl Senpai S01E02 [720p].mkv"
-                },
-                {
-                  "file": 758,
-                  "channel_id": -1003175788400,
-                  "name": "Bunny Girl Senpai S01E03 [720p].mkv"
-                },
-                {
-                  "file": 759,
-                  "channel_id": -1003175788400,
-                  "name": "Bunny Girl Senpai S01E04 [720p].mkv"
-                },
-                {
-                  "file": 760,
-                  "channel_id": -1003175788400,
-                  "name": "Bunny Girl Senpai S01E05.mkv"
-                },
-                {
-                  "file": 793,
-                  "channel_id": -1003175788400,
-                  "name": "I've Been Killing Slimes for 300 Years and Maxed Out.mp4"
-                },
-                {
-                  "file": 789,
-                  "channel_id": -1003175788400,
-                  "name": "I've_Been_Killing_Slimes_for_300_Years_and_Maxed_Out_My_Leve.mp4"
-                },
-                {
-                  "file": 790,
-                  "channel_id": -1003175788400,
-                  "name": "I've_Been_Killing_Slimes_for_300_Years_and_Maxed_Out_My_Leve.mp4"
-                },
-                {
-                  "file": 791,
-                  "channel_id": -1003175788400,
-                  "name": "I've_Been_Killing_Slimes_for_300_Years_and_Maxed_Out_My_Leve.mp4"
-                },
-                {
                   "file": 700,
                   "channel_id": -1003175788400,
                   "name": "Made In Abyss Movie - 01 [720p] [Dual] @Anime_Gallery.mkv"
@@ -1579,7 +1700,70 @@
                   "file": 688,
                   "channel_id": -1003175788400,
                   "name": "Made In Abyss S1 - 05 [720p] [Dual] @Anime_Gallery.mkv"
+                }
+              ],
+              "batch2": [
+                {
+                  "file": 689,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss S1 - 06 [720p] [Dual] @Anime_Gallery.mkv"
                 },
+                {
+                  "file": 690,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss S1 - 07 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 691,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss S1 - 08 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 692,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss S1 - 09 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 693,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss S1 - 10 [720p] [Dual] @Anime_Gallery.mkv"
+                }
+              ],
+              "batch3": [
+                {
+                  "file": 694,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss S1 - 11 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 695,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss S1 - 12 [720p] [Dual] @Anime_Gallery.mkv"
+                },
+                {
+                  "file": 696,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss S1 - 13 [720p] [Dual] @Anime_Gallery.mkv"
+                }
+              ]
+            },
+            "specials": {}
+          }
+        },
+        "mal_ids": [
+          "34599",
+          "36862",
+          "37514",
+          "37515"
+        ],
+        "missing_episodes": [],
+        "total_episodes": 0
+      },
+      "2": {
+        "languages": {
+          "English/Japanese": {
+            "batches": {
+              "batch1": [
                 {
                   "file": 708,
                   "channel_id": -1003175788400,
@@ -1604,86 +1788,92 @@
                   "file": 712,
                   "channel_id": -1003175788400,
                   "name": "Made In Abyss S2 - 05 [720p] [Sub] @Anime_Gallery.mkv"
+                }
+              ],
+              "batch2": [
+                {
+                  "file": 713,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss S2 - 06 [720p] [Sub] @Anime_Gallery.mkv"
                 },
                 {
-                  "file": 723,
+                  "file": 714,
                   "channel_id": -1003175788400,
-                  "name": "The_Devil_is_a_Part_Timer!_S01E01_720p_Dual_Audio_@A4_AnimeHouse.mkv"
+                  "name": "Made In Abyss S2 - 07 [720p] [Sub] @Anime_Gallery.mkv"
                 },
                 {
-                  "file": 724,
+                  "file": 715,
                   "channel_id": -1003175788400,
-                  "name": "The_Devil_is_a_Part_Timer!_S01E02_720p_Dual_Audio_@A4_AnimeHouse.mkv"
+                  "name": "Made In Abyss S2 - 08 [720p] [Sub] @Anime_Gallery.mkv"
                 },
                 {
-                  "file": 725,
+                  "file": 716,
                   "channel_id": -1003175788400,
-                  "name": "The_Devil_is_a_Part_Timer!_S01E03_720p_Dual_Audio_@A4_AnimeHouse.mkv"
+                  "name": "Made In Abyss S2 - 09 [720p] [Sub] @Anime_Gallery.mkv"
                 },
                 {
-                  "file": 726,
+                  "file": 717,
                   "channel_id": -1003175788400,
-                  "name": "The_Devil_is_a_Part_Timer!_S01E04_720p_Dual_Audio_@A4_AnimeHouse.mkv"
+                  "name": "Made In Abyss S2 - 10 [720p] [Sub] @Anime_Gallery.mkv"
+                }
+              ],
+              "batch3": [
+                {
+                  "file": 718,
+                  "channel_id": -1003175788400,
+                  "name": "Made In Abyss S2 - 11 [720p] [Sub] @Anime_Gallery.mkv"
                 },
                 {
-                  "file": 727,
+                  "file": 719,
                   "channel_id": -1003175788400,
-                  "name": "The_Devil_is_a_Part_Timer!_S01E05_720p_Dual_Audio_@A4_AnimeHouse.mkv"
+                  "name": "Made In Abyss S2 - 12 [720p] [Sub] @Anime_Gallery.mkv"
+                }
+              ]
+            },
+            "specials": {}
+          }
+        },
+        "mal_ids": [
+          "34599",
+          "36862",
+          "37515"
+        ],
+        "missing_episodes": [],
+        "total_episodes": 0
+      }
+    }
+  },
+  "Rascal Does Not Dream of Bunny Girl Senpai": {
+    "seasons": {
+      "1": {
+        "languages": {
+          "Japanese": {
+            "batches": {
+              "batch1": [
+                {
+                  "file": 756,
+                  "channel_id": -1003175788400,
+                  "name": "Bunny Girl Senpai S01E01 [720p].mkv"
                 },
                 {
-                  "file": 740,
+                  "file": 757,
                   "channel_id": -1003175788400,
-                  "name": "The_Devil_is_a_Part_Timer!_S02E01_1080p_Dual_Audio_@A4_AnimeHouse.mkv"
+                  "name": "Bunny Girl Senpai S01E02 [720p].mkv"
                 },
                 {
-                  "file": 741,
+                  "file": 758,
                   "channel_id": -1003175788400,
-                  "name": "The_Devil_is_a_Part_Timer!_S02E02_1080p_Dual_Audio_@A4_AnimeHouse.mkv"
+                  "name": "Bunny Girl Senpai S01E03 [720p].mkv"
                 },
                 {
-                  "file": 742,
+                  "file": 759,
                   "channel_id": -1003175788400,
-                  "name": "The_Devil_is_a_Part_Timer!_S02E03_1080p_Dual_Audio_@A4_AnimeHouse.mkv"
+                  "name": "Bunny Girl Senpai S01E04 [720p].mkv"
                 },
                 {
-                  "file": 743,
+                  "file": 760,
                   "channel_id": -1003175788400,
-                  "name": "The_Devil_is_a_Part_Timer!_S02E04_1080p_Dual_Audio_@A4_AnimeHouse.mkv"
-                },
-                {
-                  "file": 744,
-                  "channel_id": -1003175788400,
-                  "name": "The_Devil_is_a_Part_Timer!_S02E05_1080p_Dual_Audio_@A4_AnimeHouse.mkv"
-                },
-                {
-                  "file": 775,
-                  "channel_id": -1003175788400,
-                  "name": "[@Anime_Hindi_Flix S1EP-01.mkv"
-                },
-                {
-                  "file": 776,
-                  "channel_id": -1003175788400,
-                  "name": "[@Anime_Hindi_Flix S1EP-02.mkv"
-                },
-                {
-                  "file": 777,
-                  "channel_id": -1003175788400,
-                  "name": "[@Anime_Hindi_Flix S1EP-03.mkv"
-                },
-                {
-                  "file": 778,
-                  "channel_id": -1003175788400,
-                  "name": "[@Anime_Hindi_Flix S1EP-04.mkv"
-                },
-                {
-                  "file": 779,
-                  "channel_id": -1003175788400,
-                  "name": "[@Anime_Hindi_Flix S1EP-05.mkv"
-                },
-                {
-                  "file": 792,
-                  "channel_id": -1003175788400,
-                  "name": "[@Anime_Hindi_Flix S2EP-04.mkv"
+                  "name": "Bunny Girl Senpai S01E05.mkv"
                 }
               ],
               "batch2": [
@@ -1711,156 +1901,6 @@
                   "file": 765,
                   "channel_id": -1003175788400,
                   "name": "Bunny Girl Senpai S01E10 [720p].mkv"
-                },
-                {
-                  "file": 794,
-                  "channel_id": -1003175788400,
-                  "name": "I've Been Killing Slimes for 300 Years and Maxed Out.mp4"
-                },
-                {
-                  "file": 796,
-                  "channel_id": -1003175788400,
-                  "name": "I've Been Killing Slimes for 300 Years and Maxed Out.mp4"
-                },
-                {
-                  "file": 797,
-                  "channel_id": -1003175788400,
-                  "name": "I've Been Killing Slimes for 300 Years and Maxed Out.mp4"
-                },
-                {
-                  "file": 798,
-                  "channel_id": -1003175788400,
-                  "name": "I've_Been_Killing_Slimes_for_300_Years_and_Maxed_Out_My_Leve.mp4"
-                },
-                {
-                  "file": 689,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss S1 - 06 [720p] [Dual] @Anime_Gallery.mkv"
-                },
-                {
-                  "file": 690,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss S1 - 07 [720p] [Dual] @Anime_Gallery.mkv"
-                },
-                {
-                  "file": 691,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss S1 - 08 [720p] [Dual] @Anime_Gallery.mkv"
-                },
-                {
-                  "file": 692,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss S1 - 09 [720p] [Dual] @Anime_Gallery.mkv"
-                },
-                {
-                  "file": 693,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss S1 - 10 [720p] [Dual] @Anime_Gallery.mkv"
-                },
-                {
-                  "file": 713,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss S2 - 06 [720p] [Sub] @Anime_Gallery.mkv"
-                },
-                {
-                  "file": 714,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss S2 - 07 [720p] [Sub] @Anime_Gallery.mkv"
-                },
-                {
-                  "file": 715,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss S2 - 08 [720p] [Sub] @Anime_Gallery.mkv"
-                },
-                {
-                  "file": 716,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss S2 - 09 [720p] [Sub] @Anime_Gallery.mkv"
-                },
-                {
-                  "file": 717,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss S2 - 10 [720p] [Sub] @Anime_Gallery.mkv"
-                },
-                {
-                  "file": 728,
-                  "channel_id": -1003175788400,
-                  "name": "The_Devil_is_a_Part_Timer!_S01E06_720p_Dual_Audio_@A4_AnimeHouse.mkv"
-                },
-                {
-                  "file": 729,
-                  "channel_id": -1003175788400,
-                  "name": "The_Devil_is_a_Part_Timer!_S01E07_720p_Dual_Audio_@A4_AnimeHouse.mkv"
-                },
-                {
-                  "file": 730,
-                  "channel_id": -1003175788400,
-                  "name": "The_Devil_is_a_Part_Timer!_S01E08_720p_Dual_Audio_@A4_AnimeHouse.mkv"
-                },
-                {
-                  "file": 731,
-                  "channel_id": -1003175788400,
-                  "name": "The_Devil_is_a_Part_Timer!_S01E09_720p_Dual_Audio_@A4_AnimeHouse.mkv"
-                },
-                {
-                  "file": 732,
-                  "channel_id": -1003175788400,
-                  "name": "The_Devil_is_a_Part_Timer!_S01E10_720p_Dual_Audio_@A4_AnimeHouse.mkv"
-                },
-                {
-                  "file": 745,
-                  "channel_id": -1003175788400,
-                  "name": "The_Devil_is_a_Part_Timer!_S02E06_1080p_Dual_Audio_@A4_AnimeHouse.mkv"
-                },
-                {
-                  "file": 746,
-                  "channel_id": -1003175788400,
-                  "name": "The_Devil_is_a_Part_Timer!_S02E07_1080p_Dual_Audio_@A4_AnimeHouse.mkv"
-                },
-                {
-                  "file": 747,
-                  "channel_id": -1003175788400,
-                  "name": "The_Devil_is_a_Part_Timer!_S02E08_1080p_Dual_Audio_@A4_AnimeHouse.mkv"
-                },
-                {
-                  "file": 748,
-                  "channel_id": -1003175788400,
-                  "name": "The_Devil_is_a_Part_Timer!_S02E09_1080p_Dual_Audio_@A4_AnimeHouse.mkv"
-                },
-                {
-                  "file": 749,
-                  "channel_id": -1003175788400,
-                  "name": "The_Devil_is_a_Part_Timer!_S02E10_1080p_Dual_Audio_@A4_AnimeHouse.mkv"
-                },
-                {
-                  "file": 780,
-                  "channel_id": -1003175788400,
-                  "name": "[@Anime_Hindi_Flix S1EP-06.mkv"
-                },
-                {
-                  "file": 781,
-                  "channel_id": -1003175788400,
-                  "name": "[@Anime_Hindi_Flix S1EP-07.mkv"
-                },
-                {
-                  "file": 782,
-                  "channel_id": -1003175788400,
-                  "name": "[@Anime_Hindi_Flix S1EP-08.mkv"
-                },
-                {
-                  "file": 783,
-                  "channel_id": -1003175788400,
-                  "name": "[@Anime_Hindi_Flix S1EP-09.mkv"
-                },
-                {
-                  "file": 784,
-                  "channel_id": -1003175788400,
-                  "name": "[@Anime_Hindi_Flix S1EP-10.mkv"
-                },
-                {
-                  "file": 795,
-                  "channel_id": -1003175788400,
-                  "name": "[@Anime_Hindi_Flix S2EP-07.mkv"
                 }
               ],
               "batch3": [
@@ -1878,94 +1918,9 @@
                   "file": 768,
                   "channel_id": -1003175788400,
                   "name": "Bunny Girl Senpai S01E13 [720p].mkv"
-                },
-                {
-                  "file": 799,
-                  "channel_id": -1003175788400,
-                  "name": "I've Been Killing Slimes For 300 Years And Maxed Out My .mkv"
-                },
-                {
-                  "file": 800,
-                  "channel_id": -1003175788400,
-                  "name": "I've_Been_Killing_Slimes_for_300_Years_and_Maxed_Out_My_Leve.mp4"
-                },
-                {
-                  "file": 694,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss S1 - 11 [720p] [Dual] @Anime_Gallery.mkv"
-                },
-                {
-                  "file": 695,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss S1 - 12 [720p] [Dual] @Anime_Gallery.mkv"
-                },
-                {
-                  "file": 696,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss S1 - 13 [720p] [Dual] @Anime_Gallery.mkv"
-                },
-                {
-                  "file": 718,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss S2 - 11 [720p] [Sub] @Anime_Gallery.mkv"
-                },
-                {
-                  "file": 719,
-                  "channel_id": -1003175788400,
-                  "name": "Made In Abyss S2 - 12 [720p] [Sub] @Anime_Gallery.mkv"
-                },
-                {
-                  "file": 733,
-                  "channel_id": -1003175788400,
-                  "name": "The_Devil_is_a_Part_Timer!_S01E11_720p_Dual_Audio_@A4_AnimeHouse.mkv"
-                },
-                {
-                  "file": 734,
-                  "channel_id": -1003175788400,
-                  "name": "The_Devil_is_a_Part_Timer!_S01E12_720p_Dual_Audio_@A4_AnimeHouse.mkv"
-                },
-                {
-                  "file": 735,
-                  "channel_id": -1003175788400,
-                  "name": "The_Devil_is_a_Part_Timer!_S01E13_720p_Dual_Audio_@A4_AnimeHouse.mkv"
-                },
-                {
-                  "file": 750,
-                  "channel_id": -1003175788400,
-                  "name": "The_Devil_is_a_Part_Timer!_S02E11_1080p_Dual_Audio_@A4_AnimeHouse.mkv"
-                },
-                {
-                  "file": 751,
-                  "channel_id": -1003175788400,
-                  "name": "The_Devil_is_a_Part_Timer!_S02E12_1080p_Dual_Audio_@A4_AnimeHouse.mkv"
-                },
-                {
-                  "file": 785,
-                  "channel_id": -1003175788400,
-                  "name": "[@Anime_Hindi_Flix S1EP-11.mkv"
-                },
-                {
-                  "file": 786,
-                  "channel_id": -1003175788400,
-                  "name": "[@Anime_Hindi_Flix S1EP-12.mkv"
                 }
               ],
               "batch_uncategorized": [
-                {
-                  "file": 682,
-                  "channel_id": -1003175788400,
-                  "name": "Unknown"
-                },
-                {
-                  "file": 738,
-                  "channel_id": -1003175788400,
-                  "name": "Unknown"
-                },
-                {
-                  "file": 754,
-                  "channel_id": -1003175788400,
-                  "name": "Unknown"
-                },
                 {
                   "file": 772,
                   "channel_id": -1003175788400,
@@ -1977,10 +1932,7 @@
           }
         },
         "mal_ids": [
-          "34599",
-          "36862",
-          "37514",
-          "37515"
+          "37450"
         ],
         "missing_episodes": [],
         "total_episodes": 0
@@ -2145,6 +2097,181 @@
         },
         "mal_ids": [
           "62512"
+        ],
+        "missing_episodes": [],
+        "total_episodes": 0
+      }
+    }
+  },
+  "The Devil is a Part-Timer!": {
+    "seasons": {
+      "1": {
+        "languages": {
+          "English/Japanese": {
+            "batches": {
+              "batch1": [
+                {
+                  "file": 723,
+                  "channel_id": -1003175788400,
+                  "name": "The_Devil_is_a_Part_Timer!_S01E01_720p_Dual_Audio_@A4_AnimeHouse.mkv"
+                },
+                {
+                  "file": 724,
+                  "channel_id": -1003175788400,
+                  "name": "The_Devil_is_a_Part_Timer!_S01E02_720p_Dual_Audio_@A4_AnimeHouse.mkv"
+                },
+                {
+                  "file": 725,
+                  "channel_id": -1003175788400,
+                  "name": "The_Devil_is_a_Part_Timer!_S01E03_720p_Dual_Audio_@A4_AnimeHouse.mkv"
+                },
+                {
+                  "file": 726,
+                  "channel_id": -1003175788400,
+                  "name": "The_Devil_is_a_Part_Timer!_S01E04_720p_Dual_Audio_@A4_AnimeHouse.mkv"
+                },
+                {
+                  "file": 727,
+                  "channel_id": -1003175788400,
+                  "name": "The_Devil_is_a_Part_Timer!_S01E05_720p_Dual_Audio_@A4_AnimeHouse.mkv"
+                }
+              ],
+              "batch2": [
+                {
+                  "file": 728,
+                  "channel_id": -1003175788400,
+                  "name": "The_Devil_is_a_Part_Timer!_S01E06_720p_Dual_Audio_@A4_AnimeHouse.mkv"
+                },
+                {
+                  "file": 729,
+                  "channel_id": -1003175788400,
+                  "name": "The_Devil_is_a_Part_Timer!_S01E07_720p_Dual_Audio_@A4_AnimeHouse.mkv"
+                },
+                {
+                  "file": 730,
+                  "channel_id": -1003175788400,
+                  "name": "The_Devil_is_a_Part_Timer!_S01E08_720p_Dual_Audio_@A4_AnimeHouse.mkv"
+                },
+                {
+                  "file": 731,
+                  "channel_id": -1003175788400,
+                  "name": "The_Devil_is_a_Part_Timer!_S01E09_720p_Dual_Audio_@A4_AnimeHouse.mkv"
+                },
+                {
+                  "file": 732,
+                  "channel_id": -1003175788400,
+                  "name": "The_Devil_is_a_Part_Timer!_S01E10_720p_Dual_Audio_@A4_AnimeHouse.mkv"
+                }
+              ],
+              "batch3": [
+                {
+                  "file": 733,
+                  "channel_id": -1003175788400,
+                  "name": "The_Devil_is_a_Part_Timer!_S01E11_720p_Dual_Audio_@A4_AnimeHouse.mkv"
+                },
+                {
+                  "file": 734,
+                  "channel_id": -1003175788400,
+                  "name": "The_Devil_is_a_Part_Timer!_S01E12_720p_Dual_Audio_@A4_AnimeHouse.mkv"
+                },
+                {
+                  "file": 735,
+                  "channel_id": -1003175788400,
+                  "name": "The_Devil_is_a_Part_Timer!_S01E13_720p_Dual_Audio_@A4_AnimeHouse.mkv"
+                }
+              ]
+            },
+            "specials": {}
+          }
+        },
+        "mal_ids": [
+          "15809",
+          "48413",
+          "53200",
+          "55878"
+        ],
+        "missing_episodes": [],
+        "total_episodes": 0
+      },
+      "2": {
+        "languages": {
+          "English/Japanese": {
+            "batches": {
+              "batch1": [
+                {
+                  "file": 740,
+                  "channel_id": -1003175788400,
+                  "name": "The_Devil_is_a_Part_Timer!_S02E01_1080p_Dual_Audio_@A4_AnimeHouse.mkv"
+                },
+                {
+                  "file": 741,
+                  "channel_id": -1003175788400,
+                  "name": "The_Devil_is_a_Part_Timer!_S02E02_1080p_Dual_Audio_@A4_AnimeHouse.mkv"
+                },
+                {
+                  "file": 742,
+                  "channel_id": -1003175788400,
+                  "name": "The_Devil_is_a_Part_Timer!_S02E03_1080p_Dual_Audio_@A4_AnimeHouse.mkv"
+                },
+                {
+                  "file": 743,
+                  "channel_id": -1003175788400,
+                  "name": "The_Devil_is_a_Part_Timer!_S02E04_1080p_Dual_Audio_@A4_AnimeHouse.mkv"
+                },
+                {
+                  "file": 744,
+                  "channel_id": -1003175788400,
+                  "name": "The_Devil_is_a_Part_Timer!_S02E05_1080p_Dual_Audio_@A4_AnimeHouse.mkv"
+                }
+              ],
+              "batch2": [
+                {
+                  "file": 745,
+                  "channel_id": -1003175788400,
+                  "name": "The_Devil_is_a_Part_Timer!_S02E06_1080p_Dual_Audio_@A4_AnimeHouse.mkv"
+                },
+                {
+                  "file": 746,
+                  "channel_id": -1003175788400,
+                  "name": "The_Devil_is_a_Part_Timer!_S02E07_1080p_Dual_Audio_@A4_AnimeHouse.mkv"
+                },
+                {
+                  "file": 747,
+                  "channel_id": -1003175788400,
+                  "name": "The_Devil_is_a_Part_Timer!_S02E08_1080p_Dual_Audio_@A4_AnimeHouse.mkv"
+                },
+                {
+                  "file": 748,
+                  "channel_id": -1003175788400,
+                  "name": "The_Devil_is_a_Part_Timer!_S02E09_1080p_Dual_Audio_@A4_AnimeHouse.mkv"
+                },
+                {
+                  "file": 749,
+                  "channel_id": -1003175788400,
+                  "name": "The_Devil_is_a_Part_Timer!_S02E10_1080p_Dual_Audio_@A4_AnimeHouse.mkv"
+                }
+              ],
+              "batch3": [
+                {
+                  "file": 750,
+                  "channel_id": -1003175788400,
+                  "name": "The_Devil_is_a_Part_Timer!_S02E11_1080p_Dual_Audio_@A4_AnimeHouse.mkv"
+                },
+                {
+                  "file": 751,
+                  "channel_id": -1003175788400,
+                  "name": "The_Devil_is_a_Part_Timer!_S02E12_1080p_Dual_Audio_@A4_AnimeHouse.mkv"
+                }
+              ]
+            },
+            "specials": {}
+          }
+        },
+        "mal_ids": [
+          "15809",
+          "48413",
+          "53200",
+          "55878"
         ],
         "missing_episodes": [],
         "total_episodes": 0
