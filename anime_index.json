@@ -218,7 +218,8 @@
                   "name": "Death Note Relight 2 - L's Successors [720p] @ani_maniaa.mkv"
                 }
               ]
-            }
+            },
+            "specials": []
           }
         },
         "mal_ids": [
@@ -832,7 +833,8 @@
                   "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.51.Dual.Audio.720p.mkv"
                 }
               ]
-            }
+            },
+            "specials": []
           },
           "Multi Audio": {
             "batches": {
@@ -890,7 +892,8 @@
                   "name": "S1 E10 - Devilman Crybaby [Dual] 720p @Anime_Fair.mkv"
                 }
               ]
-            }
+            },
+            "specials": []
           }
         },
         "mal_ids": [
@@ -1030,7 +1033,8 @@
                   "name": "[@Anime_Hindi_Flix] season 01 episode 23 720p.mp4"
                 }
               ]
-            }
+            },
+            "specials": []
           }
         },
         "mal_ids": [
@@ -1083,7 +1087,8 @@
                   "name": "[S1-05] Genocyber [720p] [Dual] @Anime_Ocean.mkv"
                 }
               ]
-            }
+            },
+            "specials": []
           }
         },
         "mal_ids": [
@@ -1235,7 +1240,8 @@
                   "name": "Toonworld4all_Haikyuu!!_S01E25_1080p_x265_10bit_BluRay.mp4"
                 }
               ]
-            }
+            },
+            "specials": []
           }
         },
         "mal_ids": [
@@ -1385,7 +1391,8 @@
                   "name": "10.mkv"
                 }
               ]
-            }
+            },
+            "specials": []
           }
         },
         "mal_ids": [
@@ -1455,7 +1462,8 @@
                   "name": "[@Anime_Hindi_Flix S3EP-10.mkv"
                 }
               ]
-            }
+            },
+            "specials": []
           }
         },
         "mal_ids": [
@@ -1535,7 +1543,8 @@
                   "name": "[@Anime_Hindi_Flix] season 04 episode 13 720p.mkv"
                 }
               ]
-            }
+            },
+            "specials": []
           }
         },
         "mal_ids": [
@@ -1616,7 +1625,8 @@
                   "name": "[@Anime_Hindi_Flix S1EP-12.mkv"
                 }
               ]
-            }
+            },
+            "specials": []
           }
         },
         "mal_ids": [
@@ -1698,7 +1708,8 @@
                   "name": "I've_Been_Killing_Slimes_for_300_Years_and_Maxed_Out_My_Leve.mp4"
                 }
               ]
-            }
+            },
+            "specials": []
           }
         },
         "mal_ids": [
@@ -1723,12 +1734,7 @@
         "languages": {
           "English/Sub": {
             "batches": {
-              "batch1": [
-                {
-                  "file": 242,
-                  "channel_id": -1003175788400,
-                  "name": "Jujutsu Kaisen 0_01_@Download_Animes.mp4"
-                },
+              "batch_uncategorized": [
                 {
                   "file": 216,
                   "channel_id": -1003175788400,
@@ -1753,9 +1759,7 @@
                   "file": 220,
                   "channel_id": -1003175788400,
                   "name": "Jujutsu Kaisen_05_@Download_Animes.mp4"
-                }
-              ],
-              "batch2": [
+                },
                 {
                   "file": 221,
                   "channel_id": -1003175788400,
@@ -1780,9 +1784,7 @@
                   "file": 225,
                   "channel_id": -1003175788400,
                   "name": "Jujutsu Kaisen_10_@Download_Animes.mp4"
-                }
-              ],
-              "batch3": [
+                },
                 {
                   "file": 226,
                   "channel_id": -1003175788400,
@@ -1807,9 +1809,7 @@
                   "file": 230,
                   "channel_id": -1003175788400,
                   "name": "Jujutsu Kaisen_15_@Download_Animes.mp4"
-                }
-              ],
-              "batch4": [
+                },
                 {
                   "file": 231,
                   "channel_id": -1003175788400,
@@ -1834,9 +1834,7 @@
                   "file": 235,
                   "channel_id": -1003175788400,
                   "name": "Jujutsu Kaisen_20_@Download_Animes.mp4"
-                }
-              ],
-              "batch5": [
+                },
                 {
                   "file": 236,
                   "channel_id": -1003175788400,
@@ -1856,9 +1854,15 @@
                   "file": 239,
                   "channel_id": -1003175788400,
                   "name": "Jujutsu Kaisen_24_@Download_Animes.mp4"
+                },
+                {
+                  "file": 242,
+                  "channel_id": -1003175788400,
+                  "name": "Jujutsu Kaisen 0_01_@Download_Animes.mp4"
                 }
               ]
-            }
+            },
+            "specials": []
           }
         },
         "mal_ids": [
@@ -1873,7 +1877,7 @@
         "languages": {
           "English/Sub": {
             "batches": {
-              "batch1": [
+              "batch_uncategorized": [
                 {
                   "file": 245,
                   "channel_id": -1003175788400,
@@ -1898,9 +1902,7 @@
                   "file": 249,
                   "channel_id": -1003175788400,
                   "name": "Jujutsu Kaisen Season 2_05_@Download_Animes.mp4"
-                }
-              ],
-              "batch2": [
+                },
                 {
                   "file": 250,
                   "channel_id": -1003175788400,
@@ -1925,9 +1927,7 @@
                   "file": 254,
                   "channel_id": -1003175788400,
                   "name": "Jujutsu Kaisen Season 2_10_@Download_Animes.mp4"
-                }
-              ],
-              "batch3": [
+                },
                 {
                   "file": 255,
                   "channel_id": -1003175788400,
@@ -1952,9 +1952,7 @@
                   "file": 259,
                   "channel_id": -1003175788400,
                   "name": "Jujutsu Kaisen Season 2_15_@Download_Animes.mp4"
-                }
-              ],
-              "batch4": [
+                },
                 {
                   "file": 260,
                   "channel_id": -1003175788400,
@@ -1979,9 +1977,7 @@
                   "file": 264,
                   "channel_id": -1003175788400,
                   "name": "Jujutsu Kaisen Season 2_20_@Download_Animes.mp4"
-                }
-              ],
-              "batch5": [
+                },
                 {
                   "file": 265,
                   "channel_id": -1003175788400,
@@ -1998,7 +1994,8 @@
                   "name": "Jujutsu Kaisen Season 2_23_@Download_Animes.mp4"
                 }
               ]
-            }
+            },
+            "specials": []
           }
         },
         "mal_ids": [
@@ -2083,7 +2080,8 @@
                   "name": "⁍Komi Can’t Communicate S1 - E12 [720p][Sub] @ani_maniaa.mkv"
                 }
               ]
-            }
+            },
+            "specials": []
           }
         },
         "mal_ids": [
@@ -2148,7 +2146,8 @@
                   "name": "Lookism E08 @Dub_Anime_in_Hindi.mp4.mkv"
                 }
               ]
-            }
+            },
+            "specials": []
           }
         },
         "mal_ids": [
@@ -2251,7 +2250,8 @@
                   "name": "Made In Abyss S1 - 13 [720p] [Dual] @Anime_Gallery.mkv"
                 }
               ]
-            }
+            },
+            "specials": []
           }
         },
         "mal_ids": [
@@ -2333,7 +2333,8 @@
                   "name": "Made In Abyss S2 - 12 [720p] [Sub] @Anime_Gallery.mkv"
                 }
               ]
-            }
+            },
+            "specials": []
           }
         },
         "mal_ids": [
@@ -2424,7 +2425,8 @@
                   "name": "Rascal Does Not Dream of a Dreaming Girl [720p].mkv"
                 }
               ]
-            }
+            },
+            "specials": []
           }
         },
         "mal_ids": [
@@ -2503,7 +2505,8 @@
                   "name": ": [@Anime_Hindi_Flix S1Ep12.mkv"
                 }
               ]
-            }
+            },
+            "specials": []
           }
         },
         "mal_ids": [
@@ -2580,7 +2583,8 @@
                   "name": "[@Anime_Hindi_Flix] S1EP-12.mp4"
                 }
               ]
-            }
+            },
+            "specials": []
           }
         },
         "mal_ids": [
@@ -2667,7 +2671,8 @@
                   "name": "The_Devil_is_a_Part_Timer!_S01E13_720p_Dual_Audio_@A4_AnimeHouse.mkv"
                 }
               ]
-            }
+            },
+            "specials": []
           }
         },
         "mal_ids": [
@@ -2745,7 +2750,8 @@
                   "name": "The_Devil_is_a_Part_Timer!_S02E12_1080p_Dual_Audio_@A4_AnimeHouse.mkv"
                 }
               ]
-            }
+            },
+            "specials": []
           }
         },
         "mal_ids": [
@@ -2895,7 +2901,8 @@
                   "name": "[S1-24] The Seven Deadly Sins [Dual] @AnimexWrld.mkv"
                 }
               ]
-            }
+            },
+            "specials": []
           }
         },
         "mal_ids": [
@@ -3038,7 +3045,8 @@
                   "name": "Seven Deadly Sins - S4 E24 [Dual] 720p @Anime_Fair.mkv"
                 }
               ]
-            }
+            },
+            "specials": []
           }
         },
         "mal_ids": [
@@ -3181,7 +3189,8 @@
                   "name": "Seven Deadly Sins - S5 E24 [Dual] 720p @Anime_Fair.mkv"
                 }
               ]
-            }
+            },
+            "specials": []
           }
         },
         "mal_ids": [
@@ -3316,7 +3325,8 @@
                   "name": "[@Anime_Hindi_Flix] season 01 episode 22 720p.mkv"
                 }
               ]
-            }
+            },
+            "specials": []
           }
         },
         "mal_ids": [
