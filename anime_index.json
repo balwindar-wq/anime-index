@@ -1,4 +1,88 @@
 {
+  "BTOOOM!": {
+    "seasons": {
+      "1": {
+        "languages": {
+          "Multi Audio": {
+            "batches": {
+              "batch1": [
+                {
+                  "file": 1065,
+                  "channel_id": -1003175788400,
+                  "name": "01. Start.mkv"
+                },
+                {
+                  "file": 1066,
+                  "channel_id": -1003175788400,
+                  "name": "02. The Bloodstained High School Girl.mkv"
+                },
+                {
+                  "file": 1067,
+                  "channel_id": -1003175788400,
+                  "name": "03. Survival.mkv"
+                },
+                {
+                  "file": 1068,
+                  "channel_id": -1003175788400,
+                  "name": "04. Best in the World.mkv"
+                },
+                {
+                  "file": 1069,
+                  "channel_id": -1003175788400,
+                  "name": "05. Attack.mkv"
+                }
+              ],
+              "batch2": [
+                {
+                  "file": 1070,
+                  "channel_id": -1003175788400,
+                  "name": "06. Night of Sacrifice.mkv"
+                },
+                {
+                  "file": 1071,
+                  "channel_id": -1003175788400,
+                  "name": "07. Virtual Bride.mkv"
+                },
+                {
+                  "file": 1072,
+                  "channel_id": -1003175788400,
+                  "name": "08. White Ghost.mkv"
+                },
+                {
+                  "file": 1073,
+                  "channel_id": -1003175788400,
+                  "name": "09. The Strongest Player.mkv"
+                },
+                {
+                  "file": 1074,
+                  "channel_id": -1003175788400,
+                  "name": "10. High Level.mkv"
+                }
+              ],
+              "batch3": [
+                {
+                  "file": 1075,
+                  "channel_id": -1003175788400,
+                  "name": "11. Revival.mkv"
+                },
+                {
+                  "file": 1076,
+                  "channel_id": -1003175788400,
+                  "name": "12. Bonds.mkv"
+                }
+              ]
+            },
+            "specials": {}
+          }
+        },
+        "mal_ids": [
+          "14345"
+        ],
+        "missing_episodes": [],
+        "total_episodes": 0
+      }
+    }
+  },
   "Death Note": {
     "seasons": {
       "1": {
@@ -310,6 +394,126 @@
             "batches": {
               "batch1": [
                 {
+                  "file": 1052,
+                  "channel_id": -1003175788400,
+                  "name": "3737.mkv"
+                },
+                {
+                  "file": 1037,
+                  "channel_id": -1003175788400,
+                  "name": "720.mkv"
+                },
+                {
+                  "file": 1038,
+                  "channel_id": -1003175788400,
+                  "name": "720.mkv"
+                },
+                {
+                  "file": 1034,
+                  "channel_id": -1003175788400,
+                  "name": "720.mp4"
+                },
+                {
+                  "file": 1051,
+                  "channel_id": -1003175788400,
+                  "name": "BARTENDER_Glass_of_God_S01E03_720p_HD_CR_WEB_DL_Dual_Audio_ESub.mkv"
+                },
+                {
+                  "file": 953,
+                  "channel_id": -1003175788400,
+                  "name": "Bleach S01E02 [RareToonsIndia]_720P HD.mp4"
+                },
+                {
+                  "file": 938,
+                  "channel_id": -1003175788400,
+                  "name": "GetToonsIndia_I_Got_a_Cheat_Skill_in_Another_World_and_Became_Unrivaled.mkv"
+                },
+                {
+                  "file": 941,
+                  "channel_id": -1003175788400,
+                  "name": "I Got a Cheat Skill in Another World and Became Unrivale.mp4"
+                },
+                {
+                  "file": 942,
+                  "channel_id": -1003175788400,
+                  "name": "I_Got_a_Cheat_Skill_in_Another_World_and_Became_Unrivaled_in_The.mkv"
+                },
+                {
+                  "file": 939,
+                  "channel_id": -1003175788400,
+                  "name": "I_Got_a_Cheat_Skill_in_Another_World_and_Became_Unrivaled_in_The.mp4"
+                },
+                {
+                  "file": 1035,
+                  "channel_id": -1003175788400,
+                  "name": "Pick_Me_S_E02_360p_Crunchyroll_WEB_DL_Default_AAC2_0_H_264_Nx_DRM.mp4"
+                },
+                {
+                  "file": 1049,
+                  "channel_id": -1003175788400,
+                  "name": "ToonsHub_BARTENDER_Glass_of_God_S01E01_A_Gentle_Perch_Dual_Audio.mp4"
+                },
+                {
+                  "file": 1053,
+                  "channel_id": -1003175788400,
+                  "name": "ToonsHub_BARTENDER_Glass_of_God_S01E05_The_First_Drop_Dual_Audio.mp4"
+                },
+                {
+                  "file": 1007,
+                  "channel_id": -1003175788400,
+                  "name": "Unknown"
+                },
+                {
+                  "file": 1008,
+                  "channel_id": -1003175788400,
+                  "name": "Unknown"
+                },
+                {
+                  "file": 940,
+                  "channel_id": -1003175788400,
+                  "name": "Unknown"
+                },
+                {
+                  "file": 1009,
+                  "channel_id": -1003175788400,
+                  "name": "Unknown"
+                },
+                {
+                  "file": 1010,
+                  "channel_id": -1003175788400,
+                  "name": "Unknown"
+                },
+                {
+                  "file": 1011,
+                  "channel_id": -1003175788400,
+                  "name": "Unknown"
+                },
+                {
+                  "file": 1050,
+                  "channel_id": -1003175788400,
+                  "name": "Watch_Bartender__Gla...ime.to.mkv"
+                },
+                {
+                  "file": 952,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix] season 01 episode 01 720p.mp4"
+                },
+                {
+                  "file": 954,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix] season 01 episode 03 720p.mp4"
+                },
+                {
+                  "file": 955,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix] season 01 episode 04 720p.mp4"
+                },
+                {
+                  "file": 956,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix] season 01 episode 05 720p.mp4"
+                },
+                {
                   "file": 884,
                   "channel_id": -1003175788400,
                   "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.01.Dual.Audio.720p.mkv"
@@ -333,9 +537,144 @@
                   "file": 888,
                   "channel_id": -1003175788400,
                   "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.05.Dual.Audio.720p.mkv"
+                },
+                {
+                  "file": 1036,
+                  "channel_id": -1003175788400,
+                  "name": "[Toonworld4all] Twilight Out of Focus S01E03 720p HEVC 10bit.mkv"
                 }
               ],
               "batch2": [
+                {
+                  "file": 1039,
+                  "channel_id": -1003175788400,
+                  "name": "720.mkv"
+                },
+                {
+                  "file": 1040,
+                  "channel_id": -1003175788400,
+                  "name": "720.mkv"
+                },
+                {
+                  "file": 1041,
+                  "channel_id": -1003175788400,
+                  "name": "720.mp4"
+                },
+                {
+                  "file": 1042,
+                  "channel_id": -1003175788400,
+                  "name": "720.mp4"
+                },
+                {
+                  "file": 946,
+                  "channel_id": -1003175788400,
+                  "name": "9.mkv"
+                },
+                {
+                  "file": 1056,
+                  "channel_id": -1003175788400,
+                  "name": "AGAzAzAxMGLjMGIzBJL2ZzZ2MGDjAQVmAGN3AQEzAmVmZGqzATZ1LzEuZGRl.mkv"
+                },
+                {
+                  "file": 1057,
+                  "channel_id": -1003175788400,
+                  "name": "BQx2LwWwZQRkATZlL2DkAzSxBGIwL2L4ZQuwMJAxZJSxZwH1AQt0MzAxMzDj.mkv"
+                },
+                {
+                  "file": 947,
+                  "channel_id": -1003175788400,
+                  "name": "I Got a Cheat Skill in Another World Episode 10 720p.mp4"
+                },
+                {
+                  "file": 943,
+                  "channel_id": -1003175788400,
+                  "name": "I_Got_a_Cheat_Skill_in_Another_World_and_Became_Unrivaled_in_The.mp4"
+                },
+                {
+                  "file": 945,
+                  "channel_id": -1003175788400,
+                  "name": "I_Got_a_Cheat_Skill_in_Another_World_and_Became_Unrivaled_in_The.mp4"
+                },
+                {
+                  "file": 1058,
+                  "channel_id": -1003175788400,
+                  "name": "MQyyBQRlLGZjMJD5MzL4MQV5MGp2L2Z1AJIwMJD0AGH0ZTAwAGEuBJAxBGN3.mkv"
+                },
+                {
+                  "file": 1054,
+                  "channel_id": -1003175788400,
+                  "name": "ToonsHub_BARTENDER_Glass_of_God_S01E06_The_True_Face_Dual_Audio.mp4"
+                },
+                {
+                  "file": 1055,
+                  "channel_id": -1003175788400,
+                  "name": "ToonsHub_BARTENDER_Glass_of_God_S01E07_A_Bartenders_Resolve_Dual.mp4"
+                },
+                {
+                  "file": 1043,
+                  "channel_id": -1003175788400,
+                  "name": "Twilight Out Of Focus S01E10 [Hindi]_720P HD.mp4"
+                },
+                {
+                  "file": 1012,
+                  "channel_id": -1003175788400,
+                  "name": "Unknown"
+                },
+                {
+                  "file": 1048,
+                  "channel_id": -1003175788400,
+                  "name": "Unknown"
+                },
+                {
+                  "file": 944,
+                  "channel_id": -1003175788400,
+                  "name": "Unknown"
+                },
+                {
+                  "file": 1013,
+                  "channel_id": -1003175788400,
+                  "name": "Unknown"
+                },
+                {
+                  "file": 1014,
+                  "channel_id": -1003175788400,
+                  "name": "Unknown"
+                },
+                {
+                  "file": 1015,
+                  "channel_id": -1003175788400,
+                  "name": "Unknown"
+                },
+                {
+                  "file": 1016,
+                  "channel_id": -1003175788400,
+                  "name": "Unknown"
+                },
+                {
+                  "file": 957,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix] season 01 episode 06 720p.mp4"
+                },
+                {
+                  "file": 958,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix] season 01 episode 07 720p.mp4"
+                },
+                {
+                  "file": 959,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix] season 01 episode 08 720p.mp4"
+                },
+                {
+                  "file": 960,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix] season 01 episode 09 720p.mp4"
+                },
+                {
+                  "file": 961,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix] season 01 episode 10 720p.mp4"
+                },
                 {
                   "file": 889,
                   "channel_id": -1003175788400,
@@ -364,6 +703,86 @@
               ],
               "batch3": [
                 {
+                  "file": 1060,
+                  "channel_id": -1003175788400,
+                  "name": "B.mp4"
+                },
+                {
+                  "file": 1059,
+                  "channel_id": -1003175788400,
+                  "name": "BARTENDER Glass of God S01E11 [RareToonsIndia]_720P HD.mp4"
+                },
+                {
+                  "file": 1044,
+                  "channel_id": -1003175788400,
+                  "name": "Dhdkddkdjdkdkdksnmssmmdmdsn.mp4"
+                },
+                {
+                  "file": 948,
+                  "channel_id": -1003175788400,
+                  "name": "I Got a Cheat Skill in Another World and Became Unrivaled in.mp4"
+                },
+                {
+                  "file": 950,
+                  "channel_id": -1003175788400,
+                  "name": "I_Got_a_Cheat_Skill_in_Another_World_and_Became_Unrivaled_in_The.mp4"
+                },
+                {
+                  "file": 1045,
+                  "channel_id": -1003175788400,
+                  "name": "Sjskwkwmnejekdkd.mp4"
+                },
+                {
+                  "file": 1017,
+                  "channel_id": -1003175788400,
+                  "name": "Unknown"
+                },
+                {
+                  "file": 1018,
+                  "channel_id": -1003175788400,
+                  "name": "Unknown"
+                },
+                {
+                  "file": 937,
+                  "channel_id": -1003175788400,
+                  "name": "Unknown"
+                },
+                {
+                  "file": 1019,
+                  "channel_id": -1003175788400,
+                  "name": "Unknown"
+                },
+                {
+                  "file": 1020,
+                  "channel_id": -1003175788400,
+                  "name": "Unknown"
+                },
+                {
+                  "file": 962,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix] season 01 episode 11 720p.mp4"
+                },
+                {
+                  "file": 963,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix] season 01 episode 12 720p.mp4"
+                },
+                {
+                  "file": 964,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix] season 01 episode 13 720p.mp4"
+                },
+                {
+                  "file": 965,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix] season 01 episode 14 720p.mp4"
+                },
+                {
+                  "file": 966,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix] season 01 episode 15 720p.mp4"
+                },
+                {
                   "file": 894,
                   "channel_id": -1003175788400,
                   "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.11.Dual.Audio.720p.mkv"
@@ -387,9 +806,69 @@
                   "file": 898,
                   "channel_id": -1003175788400,
                   "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.15.Dual.Audio.720p.mkv"
+                },
+                {
+                  "file": 949,
+                  "channel_id": -1003175788400,
+                  "name": "[Toonworld4all] I Got a Cheat Skill in Another World and Bec.mkv"
+                },
+                {
+                  "file": 1021,
+                  "channel_id": -1003175788400,
+                  "name": "📟_Episode_15_🎧_Language_Hindi_📀_Quality_720p_📡_@Crunchyroll_Anime.mp4"
                 }
               ],
               "batch4": [
+                {
+                  "file": 1022,
+                  "channel_id": -1003175788400,
+                  "name": "Unknown"
+                },
+                {
+                  "file": 1023,
+                  "channel_id": -1003175788400,
+                  "name": "Unknown"
+                },
+                {
+                  "file": 1024,
+                  "channel_id": -1003175788400,
+                  "name": "Unknown"
+                },
+                {
+                  "file": 1025,
+                  "channel_id": -1003175788400,
+                  "name": "Unknown"
+                },
+                {
+                  "file": 1026,
+                  "channel_id": -1003175788400,
+                  "name": "Unknown"
+                },
+                {
+                  "file": 967,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix] season 01 episode 16 720p.mp4"
+                },
+                {
+                  "file": 968,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix] season 01 episode 17 720p.mp4"
+                },
+                {
+                  "file": 969,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix] season 01 episode 18 720p.mp4"
+                },
+                {
+                  "file": 970,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix] season 01 episode 19 720p.mp4"
+                },
+                {
+                  "file": 971,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix] season 01 episode 20 720p.mp4"
+                },
                 {
                   "file": 899,
                   "channel_id": -1003175788400,
@@ -418,6 +897,51 @@
               ],
               "batch5": [
                 {
+                  "file": 1027,
+                  "channel_id": -1003175788400,
+                  "name": "Unknown"
+                },
+                {
+                  "file": 1028,
+                  "channel_id": -1003175788400,
+                  "name": "Unknown"
+                },
+                {
+                  "file": 1029,
+                  "channel_id": -1003175788400,
+                  "name": "Unknown"
+                },
+                {
+                  "file": 1030,
+                  "channel_id": -1003175788400,
+                  "name": "Unknown"
+                },
+                {
+                  "file": 972,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix] season 01 episode 21 720p.mp4"
+                },
+                {
+                  "file": 973,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix] season 01 episode 22 720p.mp4"
+                },
+                {
+                  "file": 974,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix] season 01 episode 23 730p.mp4"
+                },
+                {
+                  "file": 975,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix] season 01 episode 24 720p.mp4"
+                },
+                {
+                  "file": 976,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix] season 01 episode 25 720p.mp4"
+                },
+                {
                   "file": 904,
                   "channel_id": -1003175788400,
                   "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.21.Dual.Audio.720p.mkv"
@@ -444,6 +968,31 @@
                 }
               ],
               "batch6": [
+                {
+                  "file": 977,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix] season 01 episode 26 720p.mp4"
+                },
+                {
+                  "file": 978,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix] season 01 episode 27 720p.mp4"
+                },
+                {
+                  "file": 979,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix] season 01 episode 28 720p.mp4"
+                },
+                {
+                  "file": 980,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix] season 01 episode 29 720p.mp4"
+                },
+                {
+                  "file": 981,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix] season 01 episode 30 720p.mp4"
+                },
                 {
                   "file": 909,
                   "channel_id": -1003175788400,
@@ -472,6 +1021,31 @@
               ],
               "batch7": [
                 {
+                  "file": 982,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix] season 01 episode 31 720p.mp4"
+                },
+                {
+                  "file": 983,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix] season 01 episode 32 720p.mp4"
+                },
+                {
+                  "file": 984,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix] season 01 episode 33 720p.mp4"
+                },
+                {
+                  "file": 985,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix] season 01 episode 34 720p.mp4"
+                },
+                {
+                  "file": 986,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix] season 01 episode 35 720p.mp4"
+                },
+                {
                   "file": 914,
                   "channel_id": -1003175788400,
                   "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.31.Dual.Audio.720p.mkv"
@@ -498,6 +1072,31 @@
                 }
               ],
               "batch8": [
+                {
+                  "file": 987,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix] season 01 episode 36 720p.mp4"
+                },
+                {
+                  "file": 988,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix] season 01 episode 37 720p.mp4"
+                },
+                {
+                  "file": 989,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix] season 01 episode 38 720p.mp4"
+                },
+                {
+                  "file": 990,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix] season 01 episode 39 720p.mp4"
+                },
+                {
+                  "file": 991,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix] season 01 episode 40 720p.mp4"
+                },
                 {
                   "file": 919,
                   "channel_id": -1003175788400,
@@ -526,6 +1125,31 @@
               ],
               "batch9": [
                 {
+                  "file": 992,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix] season 01 episode 41 720p.mp4"
+                },
+                {
+                  "file": 993,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix] season 01 episode 42 720p.mp4"
+                },
+                {
+                  "file": 994,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix] season 01 episode 43 720p.mp4"
+                },
+                {
+                  "file": 995,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix] season 01 episode 44 720p.mp4"
+                },
+                {
+                  "file": 996,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix] season 01 episode 45 720p.mp4"
+                },
+                {
                   "file": 924,
                   "channel_id": -1003175788400,
                   "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.41.Dual.Audio.720p.mkv"
@@ -552,6 +1176,31 @@
                 }
               ],
               "batch10": [
+                {
+                  "file": 997,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix] season 01 episode 46 720p.mp4"
+                },
+                {
+                  "file": 998,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix] season 01 episode 47 720p.mp4"
+                },
+                {
+                  "file": 999,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix] season 01 episode 48 720p.mp4"
+                },
+                {
+                  "file": 1000,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix] season 01 episode 49 720p.mp4"
+                },
+                {
+                  "file": 1001,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix] season 01 episode 50 720p.mp4"
+                },
                 {
                   "file": 929,
                   "channel_id": -1003175788400,
@@ -580,9 +1229,26 @@
               ],
               "batch11": [
                 {
+                  "file": 1002,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix] season 01 episode 51 720p.mp4"
+                },
+                {
                   "file": 934,
                   "channel_id": -1003175788400,
                   "name": "[AnimeStrix].Fullmetal.Alchemist.Ep.51.Dual.Audio.720p.mkv"
+                }
+              ],
+              "batch_uncategorized": [
+                {
+                  "file": 1006,
+                  "channel_id": -1003175788400,
+                  "name": "Unknown"
+                },
+                {
+                  "file": 1033,
+                  "channel_id": -1003175788400,
+                  "name": "Unknown"
                 }
               ]
             },
@@ -2854,6 +3520,130 @@
           "48413",
           "53200",
           "55878"
+        ],
+        "missing_episodes": [],
+        "total_episodes": 0
+      }
+    }
+  },
+  "The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible": {
+    "seasons": {
+      "1": {
+        "languages": {
+          "Multi Audio": {
+            "batches": {
+              "batch1": [
+                {
+                  "file": 1095,
+                  "channel_id": -1003175788400,
+                  "name": "EP 1 OVERFLOW HINDI DUBBED_18.mp4"
+                },
+                {
+                  "file": 1097,
+                  "channel_id": -1003175788400,
+                  "name": "EP 3 OVER FLOW HINDI DUBBED.mp4_source.mp4"
+                },
+                {
+                  "file": 1098,
+                  "channel_id": -1003175788400,
+                  "name": "EP 4 OVERFLOW HINDI DUBBED.mp4_source.mp4"
+                },
+                {
+                  "file": 1082,
+                  "channel_id": -1003175788400,
+                  "name": "MR_Cool_Anime_The_Ossan_Newbie_Adventurer,_Trained_to_Death.mkv"
+                },
+                {
+                  "file": 1080,
+                  "channel_id": -1003175788400,
+                  "name": "MR_Cool_Anime_The_Ossan_Newbie_Adventurer,_Trained_to_Death_by_the.mkv"
+                },
+                {
+                  "file": 1081,
+                  "channel_id": -1003175788400,
+                  "name": "MR_Cool_Anime_The_Ossan_Newbie_Adventurer,_Trained_to_Death_by_the.mkv"
+                },
+                {
+                  "file": 1083,
+                  "channel_id": -1003175788400,
+                  "name": "MR_Cool_Anime_The_Ossan_Newbie_Adventurer,_Trained_to_Death_by_the.mkv"
+                },
+                {
+                  "file": 1084,
+                  "channel_id": -1003175788400,
+                  "name": "MR_Cool_Anime_The_Ossan_Newbie_Adventurer,_Trained_to_Death_by_the.mkv"
+                },
+                {
+                  "file": 1096,
+                  "channel_id": -1003175788400,
+                  "name": "OVERFLOW EP 2.mp4_source.mp4"
+                },
+                {
+                  "file": 1099,
+                  "channel_id": -1003175788400,
+                  "name": "Unknown"
+                }
+              ],
+              "batch2": [
+                {
+                  "file": 1085,
+                  "channel_id": -1003175788400,
+                  "name": "MR_Cool_Anime_The_Ossan_Newbie_Adventurer,_Trained_to_Death.mkv"
+                },
+                {
+                  "file": 1087,
+                  "channel_id": -1003175788400,
+                  "name": "MR_Cool_Anime_The_Ossan_Newbie_Adventurer,_Trained_to_Death.mkv"
+                },
+                {
+                  "file": 1086,
+                  "channel_id": -1003175788400,
+                  "name": "MR_Cool_Anime_The_Ossan_Newbie_Adventurer,_Trained_to_Death_by_the.mkv"
+                },
+                {
+                  "file": 1088,
+                  "channel_id": -1003175788400,
+                  "name": "MR_Cool_Anime_The_Ossan_Newbie_Adventurer,_Trained_to_Death_by_the.mkv"
+                },
+                {
+                  "file": 1089,
+                  "channel_id": -1003175788400,
+                  "name": "MR_Cool_Anime_The_Ossan_Newbie_Adventurer,_Trained_to_Death_by_the.mkv"
+                },
+                {
+                  "file": 1100,
+                  "channel_id": -1003175788400,
+                  "name": "Unknown"
+                },
+                {
+                  "file": 1101,
+                  "channel_id": -1003175788400,
+                  "name": "Unknown"
+                },
+                {
+                  "file": 1102,
+                  "channel_id": -1003175788400,
+                  "name": "Unknown"
+                }
+              ],
+              "batch3": [
+                {
+                  "file": 1090,
+                  "channel_id": -1003175788400,
+                  "name": "MR_Cool_Anime_The_Ossan_Newbie_Adventurer,_Trained_to_Death_by_the.mkv"
+                },
+                {
+                  "file": 1091,
+                  "channel_id": -1003175788400,
+                  "name": "MR_Cool_Anime_The_Ossan_Newbie_Adventurer,_Trained_to_Death_by_the.mkv"
+                }
+              ]
+            },
+            "specials": {}
+          }
+        },
+        "mal_ids": [
+          "54913"
         ],
         "missing_episodes": [],
         "total_episodes": 0
