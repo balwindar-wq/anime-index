@@ -1,376 +1,688 @@
-[
-  {
-    "title": "Assassination Classroom Second Season",
-    "mal_ids": [
-      "24833",
-      "30654"
-    ],
-    "languages": [
-      "Hindi"
-    ]
-  },
-  {
-    "title": "Bartender Glass of God",
-    "mal_ids": [
-      "53407"
-    ],
-    "languages": [
-      "Hindi/Sub"
-    ]
-  },
-  {
-    "title": "Bleach",
-    "mal_ids": [
-      "269"
-    ],
-    "languages": [
-      "Hindi/Sub"
-    ]
-  },
-  {
-    "title": "BTOOOM!",
-    "mal_ids": [
-      "14345"
-    ],
-    "languages": [
-      "Multi Audio"
-    ]
-  },
-  {
-    "title": "Death Note",
-    "mal_ids": [
-      "1535"
-    ],
-    "languages": [
-      "English/Japanese"
-    ]
-  },
-  {
-    "title": "Devilman Crybaby",
-    "mal_ids": [
-      "35120"
-    ],
-    "languages": [
-      "Multi Audio"
-    ]
-  },
-  {
-    "title": "Frieren: Beyond Journey's End",
-    "mal_ids": [
-      "52991"
-    ],
-    "languages": [
-      "Hindi/Sub"
-    ]
-  },
-  {
-    "title": "Fullmetal Alchemist",
-    "mal_ids": [
-      "121"
-    ],
-    "languages": [
-      "Multi Audio"
-    ]
-  },
-  {
-    "title": "Fullmetal Alchemist: Brotherhood",
-    "mal_ids": [
-      "5114"
-    ],
-    "languages": [
-      "Multi Audio"
-    ]
-  },
-  {
-    "title": "Gachiakuta",
-    "mal_ids": [
-      "59062"
-    ],
-    "languages": [
-      "Hindi"
-    ]
-  },
-  {
-    "title": "Genocyber",
-    "mal_ids": [
-      "2775"
-    ],
-    "languages": [
-      "No Audio"
-    ]
-  },
-  {
-    "title": "Haikyuu",
-    "mal_ids": [
-      "20583",
-      "28891",
-      "32935"
-    ],
-    "languages": [
-      "Hindi"
-    ]
-  },
-  {
-    "title": "I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too",
-    "mal_ids": [
-      "52830"
-    ],
-    "languages": [
-      "Hindi/Sub"
-    ]
-  },
-  {
-    "title": "I've Been Killing Slimes for 300 Years and Maxed Out My Level",
-    "mal_ids": [
-      "40586",
-      "50738"
-    ],
-    "languages": [
-      "Hindi/Sub"
-    ]
-  },
-  {
-    "title": "Jujutsu Kaisen",
-    "mal_ids": [
-      "40748",
-      "48561",
-      "51009"
-    ],
-    "languages": [
-      "English/Sub"
-    ]
-  },
-  {
-    "title": "Komi Can't Communicate",
-    "mal_ids": [
-      "48926"
-    ],
-    "languages": [
-      "English/Sub"
-    ]
-  },
-  {
-    "title": "Kono Oto Tomare!: Sounds of Life",
-    "mal_ids": [
-      "38080"
-    ],
-    "languages": [
-      "Japanese"
-    ]
-  },
-  {
-    "title": "Lookism",
-    "mal_ids": [
-      "53149"
-    ],
-    "languages": [
-      "Hindi"
-    ]
-  },
-  {
-    "title": "Made in Abyss",
-    "mal_ids": [
-      "34599",
-      "36862",
-      "37514",
-      "37515"
-    ],
-    "languages": [
-      "English/Japanese"
-    ]
-  },
-  {
-    "title": "Makeine: Too Many Losing Heroines!",
-    "mal_ids": [
-      "57524",
-      "61398"
-    ],
-    "languages": [
-      "Hindi"
-    ]
-  },
-  {
-    "title": "Monster",
-    "mal_ids": [
-      "19"
-    ],
-    "languages": [
-      "English/Japanese"
-    ]
-  },
-  {
-    "title": "Mushoku Tensei: Jobless Reincarnation",
-    "mal_ids": [
-      "39535",
-      "45576",
-      "50360",
-      "51179",
-      "55818",
-      "55888"
-    ],
-    "languages": [
-      "Multi Audio"
-    ]
-  },
-  {
-    "title": "Naruto",
-    "mal_ids": [
-      "20"
-    ],
-    "languages": [
-      "English"
-    ]
-  },
-  {
-    "title": "Naruto Shippuden",
-    "mal_ids": [
-      "1735"
-    ],
-    "languages": [
-      "English",
-      "Japanese"
-    ]
-  },
-  {
-    "title": "Overflow",
-    "mal_ids": [
-      "40746"
-    ],
-    "languages": [
-      "Hindi/Sub"
-    ]
-  },
-  {
-    "title": "Rascal Does Not Dream of Bunny Girl Senpai",
-    "mal_ids": [
-      "37450"
-    ],
-    "languages": [
-      "Japanese"
-    ]
-  },
-  {
-    "title": "Reborn as a Vending Machine",
-    "mal_ids": [
-      "62512"
-    ],
-    "languages": [
-      "Hindi"
-    ]
-  },
-  {
-    "title": "Sentenced to Be a Hero",
-    "mal_ids": [
-      "56009"
-    ],
-    "languages": [
-      "Hindi"
-    ]
-  },
-  {
-    "title": "Steins;Gate",
-    "mal_ids": [
-      "9253"
-    ],
-    "languages": [
-      "Multi Audio"
-    ]
-  },
-  {
-    "title": "Steins;Gate 0",
-    "mal_ids": [
-      "10863",
-      "11577",
-      "30484"
-    ],
-    "languages": [
-      "Multi Audio"
-    ]
-  },
-  {
-    "title": "Steins;Gate 0: Valentine's of Crystal Polymorphism -Bittersweet Intermedio-",
-    "mal_ids": [
-      "37492"
-    ],
-    "languages": [
-      "Multi Audio"
-    ]
-  },
-  {
-    "title": "Steins;Gate: The Sagacious Wisdom of Cognitive Computing",
-    "mal_ids": [
-      "27957"
-    ],
-    "languages": [
-      "Multi Audio"
-    ]
-  },
-  {
-    "title": "The Devil is a Part-Timer!",
-    "mal_ids": [
-      "15809",
-      "48413",
-      "53200",
-      "55878"
-    ],
-    "languages": [
-      "English/Japanese"
-    ]
-  },
-  {
-    "title": "The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible",
-    "mal_ids": [
-      "54913"
-    ],
-    "languages": [
-      "English/Japanese (7+ indian lag. Sub)"
-    ]
-  },
-  {
-    "title": "The Seven Deadly Sins",
-    "mal_ids": [
-      "23755"
-    ],
-    "languages": [
-      "English & Japanese",
-      "Multi Audio"
-    ]
-  },
-  {
-    "title": "The Wrong Way to Use Healing Magic",
-    "mal_ids": [
-      "49613",
-      "59467"
-    ],
-    "languages": [
-      "Hindi"
-    ]
-  },
-  {
-    "title": "Twilight Out of Focus",
-    "mal_ids": [
-      "55844"
-    ],
-    "languages": [
-      "Hindi/Sub"
-    ]
-  },
-  {
-    "title": "Tying the Knot with an Amagami Sister",
-    "mal_ids": [
-      "55071"
-    ],
-    "languages": [
-      "Hindi"
-    ]
-  },
-  {
-    "title": "Your Lie In April",
-    "mal_ids": [
-      "23273"
-    ],
-    "languages": [
-      "Hindi"
-    ]
-  }
-]
+{
+  "Assassination Classroom Second Season": [
+    {
+      "season": "1",
+      "episodes": 22,
+      "languages": [
+        "Hindi"
+      ],
+      "mal_ids": [
+        "24833",
+        "30654"
+      ]
+    },
+    {
+      "season": "2",
+      "episodes": 24,
+      "languages": [
+        "Hindi"
+      ],
+      "mal_ids": [
+        "24833",
+        "30654"
+      ]
+    }
+  ],
+  "Bartender Glass of God": [
+    {
+      "season": "1",
+      "episodes": 12,
+      "languages": [
+        "Hindi/Sub"
+      ],
+      "mal_ids": [
+        "53407"
+      ]
+    }
+  ],
+  "Bleach": [
+    {
+      "season": "1",
+      "episodes": 51,
+      "languages": [
+        "Hindi/Sub"
+      ],
+      "mal_ids": [
+        "269"
+      ]
+    }
+  ],
+  "BTOOOM!": [
+    {
+      "season": "1",
+      "episodes": 10,
+      "languages": [
+        "Multi Audio"
+      ],
+      "mal_ids": [
+        "14345"
+      ]
+    }
+  ],
+  "Death Note": [
+    {
+      "season": "1",
+      "episodes": 37,
+      "languages": [
+        "English/Japanese"
+      ],
+      "mal_ids": [
+        "1535"
+      ]
+    },
+    {
+      "season": "Movie",
+      "episodes": 0,
+      "languages": [
+        "Multi Audio"
+      ],
+      "mal_ids": [
+        "1535",
+        "2994"
+      ]
+    }
+  ],
+  "Devilman Crybaby": [
+    {
+      "season": "1",
+      "episodes": 10,
+      "languages": [
+        "Multi Audio"
+      ],
+      "mal_ids": [
+        "35120"
+      ]
+    }
+  ],
+  "Frieren: Beyond Journey's End": [
+    {
+      "season": "1",
+      "episodes": 1,
+      "languages": [
+        "Hindi/Sub"
+      ],
+      "mal_ids": [
+        "52991"
+      ]
+    }
+  ],
+  "Fullmetal Alchemist": [
+    {
+      "season": "1",
+      "episodes": 51,
+      "languages": [
+        "Multi Audio"
+      ],
+      "mal_ids": [
+        "121"
+      ]
+    }
+  ],
+  "Fullmetal Alchemist: Brotherhood": [
+    {
+      "season": "1",
+      "episodes": 64,
+      "languages": [
+        "Multi Audio"
+      ],
+      "mal_ids": [
+        "5114"
+      ]
+    }
+  ],
+  "Gachiakuta": [
+    {
+      "season": "1",
+      "episodes": 23,
+      "languages": [
+        "Hindi"
+      ],
+      "mal_ids": [
+        "59062"
+      ]
+    }
+  ],
+  "Genocyber": [
+    {
+      "season": "1",
+      "episodes": 5,
+      "languages": [
+        "No Audio"
+      ],
+      "mal_ids": [
+        "2775"
+      ]
+    }
+  ],
+  "Haikyuu": [
+    {
+      "season": "1",
+      "episodes": 25,
+      "languages": [
+        "Hindi"
+      ],
+      "mal_ids": [
+        "20583"
+      ]
+    },
+    {
+      "season": "2",
+      "episodes": 25,
+      "languages": [
+        "Hindi"
+      ],
+      "mal_ids": [
+        "20583"
+      ]
+    },
+    {
+      "season": "3",
+      "episodes": 10,
+      "languages": [
+        "Hindi"
+      ],
+      "mal_ids": [
+        "20583"
+      ]
+    },
+    {
+      "season": "4",
+      "episodes": 13,
+      "languages": [
+        "Hindi"
+      ],
+      "mal_ids": [
+        "20583",
+        "28891",
+        "32935"
+      ]
+    }
+  ],
+  "I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too": [
+    {
+      "season": "1",
+      "episodes": 10,
+      "languages": [
+        "Hindi/Sub"
+      ],
+      "mal_ids": [
+        "52830"
+      ]
+    }
+  ],
+  "I've Been Killing Slimes for 300 Years and Maxed Out My Level": [
+    {
+      "season": "1",
+      "episodes": 12,
+      "languages": [
+        "Hindi/Sub"
+      ],
+      "mal_ids": [
+        "40586",
+        "50738"
+      ]
+    },
+    {
+      "season": "2",
+      "episodes": 7,
+      "languages": [
+        "Hindi/Sub"
+      ],
+      "mal_ids": [
+        "40586",
+        "50738"
+      ]
+    }
+  ],
+  "Jujutsu Kaisen": [
+    {
+      "season": "1",
+      "episodes": 24,
+      "languages": [
+        "English/Sub"
+      ],
+      "mal_ids": [
+        "40748",
+        "48561",
+        "51009"
+      ]
+    },
+    {
+      "season": "2",
+      "episodes": 253,
+      "languages": [
+        "English/Sub"
+      ],
+      "mal_ids": [
+        "40748",
+        "48561",
+        "51009"
+      ]
+    }
+  ],
+  "Jujutsu Kaisen Movie": [
+    {
+      "season": "none",
+      "episodes": 0,
+      "languages": [
+        "English/Sub"
+      ],
+      "mal_ids": [
+        "40748",
+        "48561",
+        "51009"
+      ]
+    }
+  ],
+  "Komi Can't Communicate": [
+    {
+      "season": "1",
+      "episodes": 12,
+      "languages": [
+        "English/Sub"
+      ],
+      "mal_ids": [
+        "48926"
+      ]
+    }
+  ],
+  "Kono Oto Tomare!: Sounds of Life": [
+    {
+      "season": "1",
+      "episodes": 0,
+      "languages": [
+        "Japanese"
+      ],
+      "mal_ids": [
+        "38080"
+      ]
+    }
+  ],
+  "Lookism": [
+    {
+      "season": "1",
+      "episodes": 8,
+      "languages": [
+        "Hindi"
+      ],
+      "mal_ids": [
+        "53149"
+      ]
+    }
+  ],
+  "Made in Abyss": [
+    {
+      "season": "1",
+      "episodes": 13,
+      "languages": [
+        "English/Japanese"
+      ],
+      "mal_ids": [
+        "34599",
+        "36862",
+        "37514",
+        "37515"
+      ]
+    },
+    {
+      "season": "2",
+      "episodes": 12,
+      "languages": [
+        "English/Japanese"
+      ],
+      "mal_ids": [
+        "34599",
+        "36862",
+        "37515"
+      ]
+    }
+  ],
+  "Makeine: Too Many Losing Heroines!": [
+    {
+      "season": "1",
+      "episodes": 12,
+      "languages": [
+        "Hindi"
+      ],
+      "mal_ids": [
+        "57524",
+        "61398"
+      ]
+    }
+  ],
+  "Monster": [
+    {
+      "season": "1",
+      "episodes": 46,
+      "languages": [
+        "English/Japanese"
+      ],
+      "mal_ids": [
+        "19"
+      ]
+    }
+  ],
+  "Mushoku Tensei: Jobless Reincarnation": [
+    {
+      "season": "1",
+      "episodes": 23,
+      "languages": [
+        "Multi Audio"
+      ],
+      "mal_ids": [
+        "39535",
+        "45576",
+        "50360",
+        "51179",
+        "55818",
+        "55888"
+      ]
+    },
+    {
+      "season": "2",
+      "episodes": 25,
+      "languages": [
+        "Multi Audio"
+      ],
+      "mal_ids": [
+        "39535",
+        "45576",
+        "50360",
+        "51179",
+        "55818",
+        "55888"
+      ]
+    }
+  ],
+  "Naruto": [
+    {
+      "season": "1",
+      "episodes": 93,
+      "languages": [
+        "English"
+      ],
+      "mal_ids": [
+        "20"
+      ]
+    }
+  ],
+  "Naruto Shippuden": [
+    {
+      "season": "1",
+      "episodes": 74,
+      "languages": [
+        "English",
+        "Japanese"
+      ],
+      "mal_ids": [
+        "1735"
+      ]
+    }
+  ],
+  "Overflow": [
+    {
+      "season": "1",
+      "episodes": 4,
+      "languages": [
+        "Hindi/Sub"
+      ],
+      "mal_ids": [
+        "40746"
+      ]
+    }
+  ],
+  "Rascal Does Not Dream of Bunny Girl Senpai": [
+    {
+      "season": "1",
+      "episodes": 13,
+      "languages": [
+        "Japanese"
+      ],
+      "mal_ids": [
+        "37450"
+      ]
+    }
+  ],
+  "Reborn as a Vending Machine": [
+    {
+      "season": "1",
+      "episodes": 11,
+      "languages": [
+        "Hindi"
+      ],
+      "mal_ids": [
+        "62512"
+      ]
+    },
+    {
+      "season": "2",
+      "episodes": 8,
+      "languages": [
+        "Hindi"
+      ],
+      "mal_ids": [
+        "62512"
+      ]
+    }
+  ],
+  "Sentenced to Be a Hero": [
+    {
+      "season": "1",
+      "episodes": 2,
+      "languages": [
+        "Hindi"
+      ],
+      "mal_ids": [
+        "56009"
+      ]
+    }
+  ],
+  "Steins;Gate": [
+    {
+      "season": "1",
+      "episodes": 24,
+      "languages": [
+        "Multi Audio"
+      ],
+      "mal_ids": [
+        "9253"
+      ]
+    },
+    {
+      "season": "2",
+      "episodes": 0,
+      "languages": [
+        "Multi Audio"
+      ],
+      "mal_ids": [
+        "9253"
+      ]
+    }
+  ],
+  "Steins;Gate 0": [
+    {
+      "season": "1",
+      "episodes": 0,
+      "languages": [
+        "Multi Audio"
+      ],
+      "mal_ids": [
+        "10863",
+        "11577",
+        "30484"
+      ]
+    }
+  ],
+  "Steins;Gate 0: Valentine's of Crystal Polymorphism -Bittersweet Intermedio-": [
+    {
+      "season": "1",
+      "episodes": 0,
+      "languages": [
+        "Multi Audio"
+      ],
+      "mal_ids": [
+        "37492"
+      ]
+    }
+  ],
+  "Steins;Gate: Egoistic Poriomania": [
+    {
+      "season": "1",
+      "episodes": 0,
+      "languages": [
+        "Multi Audio"
+      ],
+      "mal_ids": [
+        "10863",
+        "30484"
+      ]
+    }
+  ],
+  "Steins;Gate: The Movie - Load Region of Déjà Vu": [
+    {
+      "season": "1",
+      "episodes": 0,
+      "languages": [
+        "Multi Audio"
+      ],
+      "mal_ids": [
+        "10863",
+        "11577",
+        "30484"
+      ]
+    }
+  ],
+  "Steins;Gate: The Sagacious Wisdom of Cognitive Computing": [
+    {
+      "season": "1",
+      "episodes": 0,
+      "languages": [
+        "Multi Audio"
+      ],
+      "mal_ids": [
+        "27957"
+      ]
+    }
+  ],
+  "The Devil is a Part-Timer!": [
+    {
+      "season": "1",
+      "episodes": 13,
+      "languages": [
+        "English/Japanese"
+      ],
+      "mal_ids": [
+        "15809",
+        "48413",
+        "53200",
+        "55878"
+      ]
+    },
+    {
+      "season": "2",
+      "episodes": 12,
+      "languages": [
+        "English/Japanese"
+      ],
+      "mal_ids": [
+        "15809",
+        "48413",
+        "53200",
+        "55878"
+      ]
+    }
+  ],
+  "The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible": [
+    {
+      "season": "1",
+      "episodes": 0,
+      "languages": [
+        "English/Japanese (7+ indian lag. Sub)"
+      ],
+      "mal_ids": [
+        "54913"
+      ]
+    }
+  ],
+  "The Seven Deadly Sins": [
+    {
+      "season": "1",
+      "episodes": 24,
+      "languages": [
+        "English & Japanese"
+      ],
+      "mal_ids": [
+        "23755"
+      ]
+    },
+    {
+      "season": "4",
+      "episodes": 24,
+      "languages": [
+        "Multi Audio"
+      ],
+      "mal_ids": [
+        "23755"
+      ]
+    },
+    {
+      "season": "5",
+      "episodes": 24,
+      "languages": [
+        "Multi Audio"
+      ],
+      "mal_ids": [
+        "23755"
+      ]
+    }
+  ],
+  "The Wrong Way to Use Healing Magic": [
+    {
+      "season": "1",
+      "episodes": 10,
+      "languages": [
+        "Hindi"
+      ],
+      "mal_ids": [
+        "49613",
+        "59467"
+      ]
+    }
+  ],
+  "Twilight Out of Focus": [
+    {
+      "season": "1",
+      "episodes": 12,
+      "languages": [
+        "Hindi/Sub"
+      ],
+      "mal_ids": [
+        "55844"
+      ]
+    }
+  ],
+  "Tying the Knot with an Amagami Sister": [
+    {
+      "season": "1",
+      "episodes": 12,
+      "languages": [
+        "Hindi"
+      ],
+      "mal_ids": [
+        "55071"
+      ]
+    }
+  ],
+  "Your Lie In April": [
+    {
+      "season": "1",
+      "episodes": 22,
+      "languages": [
+        "Hindi"
+      ],
+      "mal_ids": [
+        "23273"
+      ]
+    }
+  ]
+}
